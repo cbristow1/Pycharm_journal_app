@@ -1,0 +1,1 @@
+# Pycharm_journal_app
